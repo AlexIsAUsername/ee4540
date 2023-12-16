@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ee454006
 HostName                       vlsi33.cs.wright.edu
-ProcessIdentifier              23329
-ProcessCreationTime_UTC        1701820549
-ProcessCreationTime_Readable   Tue Dec  5 18:55:49 2023 EST
+ProcessIdentifier              30069
+ProcessCreationTime_UTC        1701956074
+ProcessCreationTime_Readable   Thu Dec  7 08:34:34 2023 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/ee454006/Project/Control_Unit/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Tue Dec  5 18:57:15 2023 EST
+FilePathUsedToEditLock         /home/ee454006/Project/Control_Unit_opt/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Dec  7 08:43:26 2023 EST
